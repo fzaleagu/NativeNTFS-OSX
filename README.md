@@ -3,6 +3,8 @@ NativeNTFS-OSX
 
 manually enable native NTFS read and write in OS X
 
+source: http://reviews.cnet.com/8301-13727_7-57588773-263/how-to-manually-enable-ntfs-read-and-write-in-os-x/
+
 
 #!/bin/bash
 
